@@ -87,4 +87,4 @@ This project is intended for educational and research purposes only. It is essen
 
 Feel free to explore, analyze, and enhance the project to suit your specific requirements or research objectives.
 
-For any questions or inquiries, please contact [CHEPTOYEK BILL] at [@Bill__Trojan] on X(formerly twitter)
+For any questions or inquiries, please contact [CHEPTOYEK BILL] at [@trojan__bill] on X(formerly twitter)
