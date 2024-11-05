@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to perform data analysis and apply machine learning techniques on the "prostate_dkfz_2018_clinical_data (2).csv" dataset. The dataset contains clinical data related to prostate cancer patients, including various features such as diagnosis age, cancer type, treatment information, mutation count, and more.
+This project aims to perform data analysis and apply a few machine learning techniques on the "prostate_dkfz_2018_clinical_data (2).csv" dataset. The dataset contains clinical data related to prostate cancer patients, including various features such as diagnosis age, cancer type, treatment information, mutation count, and more.
 
 ## Dataset Description
 
